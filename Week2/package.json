@@ -1,0 +1,15 @@
+{
+  "name": "assignment2",
+  "version": "0.0.0",
+  "description": "assignment 2 for server side development with NodeJS",
+  "license": "MIT",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "mongodb": "^2.2.19",
+    "mongoose": "^4.7.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lygood2016/Server-Side-Development-with-NodeJS-coursera.git"
+  }
+}
